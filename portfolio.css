@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1868&q=80);
+}
+
+h1{
+    color: white;
+    font-style: oblique;
+    text-align: center;
+}
+
+p{
+    color: beige;
+    size: 100px;
+    text-align: center;
+    font-style: oblique;
+}
+img{
+    right: 10px;
+    width: 370px;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom-left-radius: 6px;
+    align-items: center;
+}
